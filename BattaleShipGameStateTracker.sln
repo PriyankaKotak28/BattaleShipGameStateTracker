@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattaleShipGameStateTracker", "BattaleShipGameStateTracker\BattaleShipGameStateTracker.csproj", "{A81DA3AC-78C1-4D39-A0CE-FF1CE6C8715D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleShipGameLogic", "BattleShipGameLogic\BattleShipGameLogic.csproj", "{ECF45FCC-2B02-48B5-9B15-A6DC72962B11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81DA3AC-78C1-4D39-A0CE-FF1CE6C8715D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81DA3AC-78C1-4D39-A0CE-FF1CE6C8715D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81DA3AC-78C1-4D39-A0CE-FF1CE6C8715D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81DA3AC-78C1-4D39-A0CE-FF1CE6C8715D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF45FCC-2B02-48B5-9B15-A6DC72962B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF45FCC-2B02-48B5-9B15-A6DC72962B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF45FCC-2B02-48B5-9B15-A6DC72962B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF45FCC-2B02-48B5-9B15-A6DC72962B11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B8EBF3C-CABE-49DA-B1CB-73CF5839D5A8}
+	EndGlobalSection
+EndGlobal
