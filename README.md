@@ -14,7 +14,7 @@ the following logic:
 * [.NET Core 3.1](https://www.microsoft.com/net/download)
 
 ### Unit Testing
-**MSTest** : In Visual Studio, go to **`Test > Run > All Tests`**
+**GameUnitTesting** : In Visual Studio, go to **`Test > Run > All Tests`**
 
 ### Setup Project
 Project should be ready to run upon pulling the solution from github, should all dependencies requirements are met.
